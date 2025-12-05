@@ -7,9 +7,11 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+    
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="/my_first_page/index.php">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Shop</a>
@@ -26,8 +28,8 @@
         <button class="btn btn-outline-success" type="submit">Search</button>
       </form>
       <div class="d-flex ms-auto">
-        <a href="./Auth/login.php " class="btn btn-primary">Login</a>
-        <a href="./Auth/signup.php" class="btn btn-primary">Sign Up</a>
+        <a href="/my_first_page/login.php " class="btn btn-primary">Login</a>
+        <a href="/my_first_page/signup.php" class="btn btn-primary">Sign Up</a>
       </div>
     </div>
   </div>
